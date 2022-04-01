@@ -5,3 +5,4 @@ Data generated from the manuscript "Comparative genomics of mortal and immortal 
 
 * dornii.putative_func.proteins.fasta - T. dohrnii protein sequences as predicted by MAKER2
 * rubra.putative_func.proteins.fasta - T. rubra  protein sequences as predicted by MAKER2
+* transl.txt - Equivalence between MAKER2 ids and official gene symbols according to sequence comparisons
